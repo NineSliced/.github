@@ -1,5 +1,5 @@
 # Ninesliced
-[Bluesky](https://bsky.app/profile/ninesliced.com) · [Twitter/X](https://x.com/ninesliced) · [itch.io](https://ninesliced.itch.io/) · [Instagram](https://instagram.com/ninesliced_games) · [GitHub](https://github.com/ninesliced)
+[Website](https://ninesliced.com) · [Bluesky](https://bsky.app/profile/ninesliced.com) · [Twitter/X](https://x.com/ninesliced) · [itch.io](https://ninesliced.itch.io/) · [Instagram](https://instagram.com/ninesliced_games) · [GitHub](https://github.com/ninesliced)
 
 We are a team of young game developers composed of:
 - [`AlexisFox`](https://github.com/alexis-belmonte)
