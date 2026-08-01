@@ -7,6 +7,7 @@ It was made with the idea of having a borderless team. We like to think of it li
 
 Our games: 
 - [Bugscraper](https://github.com/yolwoocle/bugscraper)
+- [Montic](https://ninesliced.itch.io/montic)
 - [Globs](https://github.com/ARKANYOTA/gmtk2024)
 - [Maby](https://github.com/ARKANYOTA/gmtk2024)
 
